@@ -9,7 +9,7 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Adilson Leãp
+            Adilson Leão
           </a>
         </p>
         <p className="text-light">
